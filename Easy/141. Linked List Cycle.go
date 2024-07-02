@@ -1,3 +1,5 @@
+package easy
+
 func hasCycle(head *ListNode) bool {
 	slow := head
 	fast := head

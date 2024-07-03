@@ -1,24 +1,28 @@
+package medium
+
+import "sort"
+
 func fourSum(nums []int, target int) [][]int {
 	var results [][]int
-    if len(nums) < 4 {
-        return results
-    }
+	if len(nums) < 4 {
+		return results
+	}
 	sort.Ints(nums)
-	for i := 0; i < len(nums) - 3; i++ {
+	for i := 0; i < len(nums)-3; i++ {
 		if i > 0 && nums[i] == nums[i-1] {
 			continue
 		}
 		for j := i + 1; j < len(nums)-2; j++ {
-            if j > i + 1 && nums[j] == nums[j-1] {
-                continue
-            }
-			left, right := j + 1, len(nums)-1
+			if j > i+1 && nums[j] == nums[j-1] {
+				continue
+			}
+			left, right := j+1, len(nums)-1
 			targetSum := target - nums[i] - nums[j]
 			for left < right {
 				sum := nums[left] + nums[right]
 
 				if sum == targetSum {
-					results = append(results, []int{nums[i],nums[j], nums[left], nums[right]})
+					results = append(results, []int{nums[i], nums[j], nums[left], nums[right]})
 					left++
 					right--
 

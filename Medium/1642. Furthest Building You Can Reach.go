@@ -1,6 +1,7 @@
+package medium
+
 import (
 	"container/heap"
-	"fmt"
 )
 
 type MinHeap []int
@@ -34,4 +35,3 @@ func furthestBuilding(heights []int, bricks int, ladders int) int {
 	}
 	return len(heights) - 1
 }
-

@@ -3,8 +3,8 @@ package easy
 func backspaceCompare(s string, t string) bool {
 	l1, l2 := len(s)-1, len(t)-1
 	for l1 >= 0 || l2 >= 0 {
-		i1 := getNextAvaibleIndex(s, l1)
-		i2 := getNextAvaibleIndex(t, l2)
+		i1 := getNextAvailableIndex(s, l1)
+		i2 := getNextAvailableIndex(t, l2)
 		if i1 < 0 && i2 < 0 {
 			return true
 		}
@@ -17,7 +17,7 @@ func backspaceCompare(s string, t string) bool {
 	return l1 < 0 && l2 < 0
 }
 
-func getNextAvaibleIndex(s string, index int) int {
+func getNextAvailableIndex(s string, index int) int {
 	countBackspace := 0
 	for index >= 0 {
 		if s[index] == '#' {

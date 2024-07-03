@@ -1,3 +1,5 @@
+package medium
+
 func findLengthOfShortestSubarray(arr []int) int {
 	left, right := 0, len(arr)-1
 	for left < len(arr)-1 && arr[left] <= arr[left+1] {

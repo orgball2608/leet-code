@@ -1,4 +1,4 @@
-package easy
+package medium
 
 func topKFrequent(nums []int, k int) []int {
 	hashmap := make(map[int]int)

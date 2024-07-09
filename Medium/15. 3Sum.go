@@ -4,20 +4,20 @@ import "sort"
 
 func threeSum(nums []int) [][]int {
 	var results [][]int
-	if len(nums) < 3 {
+	length := len(nums)
+	if length < 3 {
 		return results
 	}
 	sort.Ints(nums)
-	for i := 0; i < len(nums)-2; i++ {
+
+	for i := 0; i < length-2; i++ {
 		if i > 0 && nums[i] == nums[i-1] {
 			continue
 		}
-		left, right := i+1, len(nums)-1
+		left, right := i+1, length-1
 		target := -nums[i]
-
 		for left < right {
 			sum := nums[left] + nums[right]
-
 			if sum == target {
 				results = append(results, []int{nums[i], nums[left], nums[right]})
 				left++
@@ -38,6 +38,9 @@ func threeSum(nums []int) [][]int {
 	}
 	return results
 }
+
+// Time: O(NlogN)
+//Space: O(N)
 
 //first version
 

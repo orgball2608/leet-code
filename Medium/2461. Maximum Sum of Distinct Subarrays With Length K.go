@@ -27,10 +27,3 @@ func maximumSubarraySum(nums []int, k int) int64 {
 
 	return int64(max_sum)
 }
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}

@@ -17,7 +17,7 @@ func totalFruit(fruits []int) int {
 			start++
 		}
 		if length < (end - start + 1) {
-			length = (end - start + 1)
+			length = end - start + 1
 		}
 	}
 	return length

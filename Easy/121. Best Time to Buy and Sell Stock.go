@@ -19,12 +19,5 @@ func maxProfit(prices []int) int {
 	return profit
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 //Time: O(N)
 //Space: O(1)

@@ -2,13 +2,13 @@ package medium
 
 func characterReplacement(s string, k int) int {
 	dict := make(map[byte]int)
-	start, maxlength, maxrepeatchar := 0, 0, 0
+	start, maxlength, maxRepeatChar := 0, 0, 0
 	for i, _ := range s {
 		dict[s[i]]++
-		if maxrepeatchar < dict[s[i]] {
-			maxrepeatchar = dict[s[i]]
+		if maxRepeatChar < dict[s[i]] {
+			maxRepeatChar = dict[s[i]]
 		}
-		if (i - start + 1 - maxrepeatchar) > k {
+		if (i - start + 1 - maxRepeatChar) > k {
 			dict[s[start]]--
 			start++
 		}

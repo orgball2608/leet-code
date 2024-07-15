@@ -26,9 +26,9 @@ jobs:
 
       - name: Update README
         run: |
-            file_count=${{ steps.count_files.outputs.file_count }}
-            readme_content="readme_content="# LeetCode\n\nTry hard leet code every day to improve level\n\n[Leetcode profile](https://leetcode.com/u/orgball2608/)\n\n## Problem solved\n\n **$file_count** problem.""
-            echo "$readme_content" > README.md
+          file_count=${{ steps.count_files.outputs.file_count }}
+          readme_content="# LeetCode\n\nTry hard leet code every day to improve level\n\n[Leetcode profile](https://leetcode.com/u/orgball2608/)\n\n## Problem solved\n\n**$file_count** problem."
+          echo "$readme_content" > README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:

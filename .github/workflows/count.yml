@@ -20,26 +20,26 @@ jobs:
       - name: Count files
         id: count_files
         run: |
-          file_count=$(find . -type f | wc -l)
+          file_count=$(find . -type f ! -path './.*/*' ! -name 'README.md' | wc -l)
           echo "File count: $file_count"
           echo "::set-output name=file_count::$file_count"
 
       - name: Update README
         run: |
-            file_count=${{ steps.count_files.outputs.file_count }}
-            readme_content=$(cat << EOF
-            # LeetCode
+          file_count=${{ steps.count_files.outputs.file_count }}
+          readme_content=$(cat << EOF
+          # LeetCode
       
-            Try hard leet code every day to improve level
+          Try hard leet code every day to improve level
       
-            [ Leetcode profile ](https://leetcode.com/u/orgball2608/)
+          [ Leetcode profile ](https://leetcode.com/u/orgball2608/)
       
-            ## Problem solved
+          ## Problem solved
       
-            **$file_count** problem.
-            EOF
-            )
-            echo "$readme_content" > README.md
+          **$file_count** problem.
+          EOF
+          )
+          echo "$readme_content" > README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:

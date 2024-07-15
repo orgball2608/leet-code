@@ -1,0 +1,37 @@
+name: Count
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  count:
+    name: Count
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Count files
+        id: count_files
+        run: |
+          file_count=$(find . -type f | wc -l)
+          echo "File count: $file_count"
+          echo "::set-output name=file_count::$file_count"
+
+      - name: Update README
+        run: |
+            file_count=${{ steps.count_files.outputs.file_count }}
+            readme_content="readme_content="# LeetCode\n\nTry hard leet code every day to improve level\n\n[Leetcode profile](https://leetcode.com/u/orgball2608/)\n\n## Problem solved\n\n **$file_count** problem.""
+            echo "$readme_content" > README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update README with file count
+          commit_author: GitHub <41898282+github-actions[bot]@users.noreply.github.com>
+          branch: ${{ github.ref_name }}

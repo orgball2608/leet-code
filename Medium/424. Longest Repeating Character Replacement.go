@@ -1,7 +1,7 @@
 package medium
 
 func characterReplacement(s string, k int) int {
-	dict := make(map[byte]int)
+	dict := make(map[byte]int, 26)
 	start, maxlength, maxRepeatChar := 0, 0, 0
 	for i, _ := range s {
 		dict[s[i]]++

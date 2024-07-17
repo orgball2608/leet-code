@@ -1,6 +1,6 @@
-# LeetCode
+# Leetcode
 
-Try hard leet code every day to improve level
+Try hard leetcode every day to improve level
 
 [ Leetcode profile ](https://leetcode.com/u/orgball2608/)
 

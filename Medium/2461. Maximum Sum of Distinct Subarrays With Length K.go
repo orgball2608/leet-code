@@ -6,13 +6,13 @@ func maximumSubarraySum(nums []int, k int) int64 {
 		return 0
 	}
 	frequency := make(map[int]int)
-	start, sum, max_sum := 0, 0, 0
+	start, sum, maxSum := 0, 0, 0
 	for i, val := range nums {
 		frequency[val]++
 		sum += val
 		if i-start+1 == k {
 			if len(frequency) == k {
-				max_sum = max(max_sum, sum)
+				maxSum = max(maxSum, sum)
 			}
 
 			if frequency[nums[start]] == 1 {
@@ -25,5 +25,5 @@ func maximumSubarraySum(nums []int, k int) int64 {
 		}
 	}
 
-	return int64(max_sum)
+	return int64(maxSum)
 }

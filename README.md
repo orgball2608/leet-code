@@ -6,4 +6,4 @@ Try hard leet code every day to improve level
 
 ## Problem solved
 
-**73** problem.
+**74** problem.

@@ -22,7 +22,7 @@ func (this *TimeMap) Set(key string, value string, timestamp int) {
 	}
 
 	this.Items[key] = append(this.Items[key], Item{
-		Val:       value,
+		Val:       value,o
 		TimeStamp: timestamp,
 	})
 }

@@ -1,5 +1,7 @@
 package medium
 
+import "slices"
+
 func successfulPairs(spells []int, potions []int, success int64) []int {
 	slices.Sort(potions)
 	succ := int(success) - 1

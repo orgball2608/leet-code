@@ -1,5 +1,7 @@
 package medium
 
+import "slices"
+
 func minSetSize(arr []int) int {
 	counter := make([]int, 100001)
 	for _, val := range arr {

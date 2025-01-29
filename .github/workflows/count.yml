@@ -1,47 +1,34 @@
-name: Count solved problem
+name: Count solved problems
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   workflow_dispatch:
 
 jobs:
   count:
-    name: Count solved problem
+    name: Count solved problems
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      GITHUB_REPO_URL: "https://github.com/${{ github.repository }}/blob/main"
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
 
-      - name: Count files
-        id: count_files
-        run: |
-          file_count=$(find . -type f ! -path './.*' ! -path './.*/*' ! -name 'README.md' | wc -l)
-          echo "File count: $file_count"
-          echo "::set-output name=file_count::$file_count"
+      - name: Set up environment
+        run: chmod +x .github/scripts/*.sh  # Cấp quyền chạy script
 
-      - name: Update README
-        run: |
-          file_count=${{ steps.count_files.outputs.file_count }}
-          readme_content=$(cat << EOF
-          # LeetCode
-      
-          Try hard leet code every day to improve level
-      
-          [ Leetcode profile ](https://leetcode.com/u/orgball2608/)
-      
-          ## Problem solved
-      
-          **$file_count** problem.
-          EOF
-          )
-          echo "$readme_content" > README.md
+      - name: Get solved count from LeetCode API
+        run: .github/scripts/get_solved_count.sh
+
+      - name: Generate README
+        run: .github/scripts/generate_readme.sh
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update README with file count
+          commit_message: Update README with solved problems
           commit_author: GitHub <41898282+github-actions[bot]@users.noreply.github.com>
           branch: ${{ github.ref_name }}

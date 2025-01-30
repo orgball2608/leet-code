@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**138** problems solved.
+**139** problems solved.
 
 ## Easy (54 solved)
 
@@ -65,7 +65,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (75 solved)
+## Medium (76 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -96,6 +96,7 @@ Practice and improve your LeetCode skills every day.
 - [162. Find Peak Element](https://github.com/orgball2608/leet-code/blob/main/medium/162.%20Find%20Peak%20Element.go) - [LeetCode Problem](https://leetcode.com/problems/find-peak-element/)
 - [165. Compare Version Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/165.%20Compare%20Version%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/compare-version-numbers/)
 - [167. Two Sum II - Input Array Is Sorted](https://github.com/orgball2608/leet-code/blob/main/medium/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.go) - [LeetCode Problem](https://leetcode.com/problems/two-sum-ii---input-array-is-sorted/)
+- [189. Rotate Array](https://github.com/orgball2608/leet-code/blob/main/medium/189.%20Rotate%20Array.go) - [LeetCode Problem](https://leetcode.com/problems/rotate-array/)
 - [198. House Robber](https://github.com/orgball2608/leet-code/blob/main/medium/198.%20House%20Robber.go) - [LeetCode Problem](https://leetcode.com/problems/house-robber/)
 - [199. Binary Tree Right Side View](https://github.com/orgball2608/leet-code/blob/main/medium/199.%20Binary%20Tree%20Right%20Side%20View.go) - [LeetCode Problem](https://leetcode.com/problems/binary-tree-right-side-view/)
 - [208. Implement Trie (Prefix Tree)](https://github.com/orgball2608/leet-code/blob/main/medium/208.%20Implement%20Trie%20(Prefix%20Tree).go) - [LeetCode Problem](https://leetcode.com/problems/implement-trie-(prefix-tree)/)

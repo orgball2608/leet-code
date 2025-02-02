@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**141** problems solved.
+**142** problems solved.
 
-## Easy (54 solved)
+## Easy (55 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [20. Valid Parentheses](https://github.com/orgball2608/leet-code/blob/main/easy/20.%20Valid%20Parentheses.go) - [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/)
@@ -35,6 +35,7 @@ Practice and improve your LeetCode skills every day.
 - [349. Intersection of Two Arrays](https://github.com/orgball2608/leet-code/blob/main/easy/349.%20Intersection%20of%20Two%20Arrays.go) - [LeetCode Problem](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [374. Guess Number Higher or Lower](https://github.com/orgball2608/leet-code/blob/main/easy/374.%20Guess%20Number%20Higher%20or%20Lower.go) - [LeetCode Problem](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [387. First Unique Character in a String](https://github.com/orgball2608/leet-code/blob/main/easy/387.%20First%20Unique%20Character%20in%20a%20String.go) - [LeetCode Problem](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [389. Find the Difference](https://github.com/orgball2608/leet-code/blob/main/easy/389.%20Find%20the%20Difference.go) - [LeetCode Problem](https://leetcode.com/problems/find-the-difference/)
 - [392. Is Subsequence](https://github.com/orgball2608/leet-code/blob/main/easy/392.%20Is%20Subsequence.go) - [LeetCode Problem](https://leetcode.com/problems/is-subsequence/)
 - [500. Keyboard Row](https://github.com/orgball2608/leet-code/blob/main/easy/500.%20Keyboard%20Row.go) - [LeetCode Problem](https://leetcode.com/problems/keyboard-row/)
 - [506. Relative Ranks](https://github.com/orgball2608/leet-code/blob/main/easy/506.%20Relative%20Ranks.go) - [LeetCode Problem](https://leetcode.com/problems/relative-ranks/)

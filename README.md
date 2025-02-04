@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**142** problems solved.
+**143** problems solved.
 
 ## Easy (55 solved)
 
@@ -66,7 +66,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (78 solved)
+## Medium (79 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -141,6 +141,7 @@ Practice and improve your LeetCode skills every day.
 - [1657. Determine if Two Strings Are Close](https://github.com/orgball2608/leet-code/blob/main/medium/1657.%20Determine%20if%20Two%20Strings%20Are%20Close.go) - [LeetCode Problem](https://leetcode.com/problems/determine-if-two-strings-are-close/)
 - [2300. Successful Pairs of Spells and Potions](https://github.com/orgball2608/leet-code/blob/main/medium/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.go) - [LeetCode Problem](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
 - [2336. Smallest Number in Infinite Set](https://github.com/orgball2608/leet-code/blob/main/medium/2336.%20Smallest%20Number%20in%20Infinite%20Set.go) - [LeetCode Problem](https://leetcode.com/problems/smallest-number-in-infinite-set/)
+- [2410. Maximum Matching of Players With Trainers](https://github.com/orgball2608/leet-code/blob/main/medium/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.go) - [LeetCode Problem](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/)
 - [2424. Longest Uploaded Prefix](https://github.com/orgball2608/leet-code/blob/main/medium/2424.%20Longest%20Uploaded%20Prefix.go) - [LeetCode Problem](https://leetcode.com/problems/longest-uploaded-prefix/)
 - [2461. Maximum Sum of Distinct Subarrays With Length K](https://github.com/orgball2608/leet-code/blob/main/medium/2461.%20Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K.go) - [LeetCode Problem](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
 - [2462. Total Cost to Hire K Workers](https://github.com/orgball2608/leet-code/blob/main/medium/2462.%20Total%20Cost%20to%20Hire%20K%20Workers.go) - [LeetCode Problem](https://leetcode.com/problems/total-cost-to-hire-k-workers/)

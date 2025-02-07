@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**144** problems solved.
+**145** problems solved.
 
-## Easy (55 solved)
+## Easy (56 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [20. Valid Parentheses](https://github.com/orgball2608/leet-code/blob/main/easy/20.%20Valid%20Parentheses.go) - [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/)
@@ -30,6 +30,7 @@ Practice and improve your LeetCode skills every day.
 - [234. Palindrome Linked List](https://github.com/orgball2608/leet-code/blob/main/easy/234.%20Palindrome%20Linked%20List.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-linked-list/)
 - [242. Valid Anagram](https://github.com/orgball2608/leet-code/blob/main/easy/242.%20Valid%20Anagram.go) - [LeetCode Problem](https://leetcode.com/problems/valid-anagram/)
 - [268. Missing Number](https://github.com/orgball2608/leet-code/blob/main/easy/268.%20Missing%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/missing-number/)
+- [278. First Bad Version](https://github.com/orgball2608/leet-code/blob/main/easy/278.%20First%20Bad%20Version.go) - [LeetCode Problem](https://leetcode.com/problems/first-bad-version/)
 - [283. Move Zeroes](https://github.com/orgball2608/leet-code/blob/main/easy/283.%20Move%20Zeroes.go) - [LeetCode Problem](https://leetcode.com/problems/move-zeroes/)
 - [344. Reverse String](https://github.com/orgball2608/leet-code/blob/main/easy/344.%20Reverse%20String.go) - [LeetCode Problem](https://leetcode.com/problems/reverse-string/)
 - [349. Intersection of Two Arrays](https://github.com/orgball2608/leet-code/blob/main/easy/349.%20Intersection%20of%20Two%20Arrays.go) - [LeetCode Problem](https://leetcode.com/problems/intersection-of-two-arrays/)

@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**146** problems solved.
+**147** problems solved.
 
 ## Easy (56 solved)
 
@@ -67,7 +67,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (81 solved)
+## Medium (82 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -80,6 +80,7 @@ Practice and improve your LeetCode skills every day.
 - [19. Remove Nth Node From End of List](https://github.com/orgball2608/leet-code/blob/main/medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.go) - [LeetCode Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [22. Generate Parentheses](https://github.com/orgball2608/leet-code/blob/main/medium/22.%20Generate%20Parentheses.go) - [LeetCode Problem](https://leetcode.com/problems/generate-parentheses/)
 - [33. Search in Rotated Sorted Array](https://github.com/orgball2608/leet-code/blob/main/medium/33.%20Search%20in%20Rotated%20Sorted%20Array.go) - [LeetCode Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [34. Find First and Last Position of Element in Sorted Array](https://github.com/orgball2608/leet-code/blob/main/medium/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.go) - [LeetCode Problem](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [36. Valid Sudoku](https://github.com/orgball2608/leet-code/blob/main/medium/36.%20Valid%20Sudoku.go) - [LeetCode Problem](https://leetcode.com/problems/valid-sudoku/)
 - [49. Group Anagrams](https://github.com/orgball2608/leet-code/blob/main/medium/49.%20Group%20Anagrams.go) - [LeetCode Problem](https://leetcode.com/problems/group-anagrams/)
 - [56. Merge Intervals](https://github.com/orgball2608/leet-code/blob/main/medium/56.%20Merge%20Intervals.go) - [LeetCode Problem](https://leetcode.com/problems/merge-intervals/)

@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**148** problems solved.
+**149** problems solved.
 
 ## Easy (56 solved)
 
@@ -67,7 +67,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (83 solved)
+## Medium (84 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -134,6 +134,7 @@ Practice and improve your LeetCode skills every day.
 - [904. Fruit Into Baskets](https://github.com/orgball2608/leet-code/blob/main/medium/904.%20Fruit%20Into%20Baskets.go) - [LeetCode Problem](https://leetcode.com/problems/fruit-into-baskets/)
 - [912. Sort an Array](https://github.com/orgball2608/leet-code/blob/main/medium/912.%20Sort%20an%20Array.go) - [LeetCode Problem](https://leetcode.com/problems/sort-an-array/)
 - [923. 3Sum With Multiplicity](https://github.com/orgball2608/leet-code/blob/main/medium/923.%203Sum%20With%20Multiplicity.go) - [LeetCode Problem](https://leetcode.com/problems/3sum-with-multiplicity/)
+- [930. Binary Subarrays With Sum](https://github.com/orgball2608/leet-code/blob/main/medium/930.%20Binary%20Subarrays%20With%20Sum.go) - [LeetCode Problem](https://leetcode.com/problems/binary-subarrays-with-sum/)
 - [973. K Closest Points to Origin](https://github.com/orgball2608/leet-code/blob/main/medium/973.%20K%20Closest%20Points%20to%20Origin.go) - [LeetCode Problem](https://leetcode.com/problems/k-closest-points-to-origin/)
 - [981. Time Based Key-Value Store](https://github.com/orgball2608/leet-code/blob/main/medium/981.%20Time%20Based%20Key-Value%20Store.go) - [LeetCode Problem](https://leetcode.com/problems/time-based-key-value-store/)
 - [1011. Capacity To Ship Packages Within D Days](https://github.com/orgball2608/leet-code/blob/main/medium/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.go) - [LeetCode Problem](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)

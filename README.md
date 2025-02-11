@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**150** problems solved.
+**151** problems solved.
 
-## Easy (56 solved)
+## Easy (57 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [20. Valid Parentheses](https://github.com/orgball2608/leet-code/blob/main/easy/20.%20Valid%20Parentheses.go) - [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/)
@@ -21,6 +21,7 @@ Practice and improve your LeetCode skills every day.
 - [110. Balanced Binary Tree](https://github.com/orgball2608/leet-code/blob/main/easy/110.%20Balanced%20Binary%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/balanced-binary-tree/)
 - [121. Best Time to Buy and Sell Stock](https://github.com/orgball2608/leet-code/blob/main/easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.go) - [LeetCode Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [125. Valid Palindrome](https://github.com/orgball2608/leet-code/blob/main/easy/125.%20Valid%20Palindrome.go) - [LeetCode Problem](https://leetcode.com/problems/valid-palindrome/)
+- [136. Single Number](https://github.com/orgball2608/leet-code/blob/main/easy/136.%20Single%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/single-number/)
 - [141. Linked List Cycle](https://github.com/orgball2608/leet-code/blob/main/easy/141.%20Linked%20List%20Cycle.go) - [LeetCode Problem](https://leetcode.com/problems/linked-list-cycle/)
 - [202. Happy Number](https://github.com/orgball2608/leet-code/blob/main/easy/202.%20Happy%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/happy-number/)
 - [206. Reverse Linked List](https://github.com/orgball2608/leet-code/blob/main/easy/206.%20Reverse%20Linked%20List.go) - [LeetCode Problem](https://leetcode.com/problems/reverse-linked-list/)

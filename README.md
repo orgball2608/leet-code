@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**152** problems solved.
+**153** problems solved.
 
-## Easy (57 solved)
+## Easy (58 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [20. Valid Parentheses](https://github.com/orgball2608/leet-code/blob/main/easy/20.%20Valid%20Parentheses.go) - [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/)
@@ -33,6 +33,7 @@ Practice and improve your LeetCode skills every day.
 - [268. Missing Number](https://github.com/orgball2608/leet-code/blob/main/easy/268.%20Missing%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/missing-number/)
 - [278. First Bad Version](https://github.com/orgball2608/leet-code/blob/main/easy/278.%20First%20Bad%20Version.go) - [LeetCode Problem](https://leetcode.com/problems/first-bad-version/)
 - [283. Move Zeroes](https://github.com/orgball2608/leet-code/blob/main/easy/283.%20Move%20Zeroes.go) - [LeetCode Problem](https://leetcode.com/problems/move-zeroes/)
+- [303. Range Sum Query - Immutable](https://github.com/orgball2608/leet-code/blob/main/easy/303.%20Range%20Sum%20Query%20-%20Immutable.go) - [LeetCode Problem](https://leetcode.com/problems/range-sum-query---immutable/)
 - [344. Reverse String](https://github.com/orgball2608/leet-code/blob/main/easy/344.%20Reverse%20String.go) - [LeetCode Problem](https://leetcode.com/problems/reverse-string/)
 - [349. Intersection of Two Arrays](https://github.com/orgball2608/leet-code/blob/main/easy/349.%20Intersection%20of%20Two%20Arrays.go) - [LeetCode Problem](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [374. Guess Number Higher or Lower](https://github.com/orgball2608/leet-code/blob/main/easy/374.%20Guess%20Number%20Higher%20or%20Lower.go) - [LeetCode Problem](https://leetcode.com/problems/guess-number-higher-or-lower/)

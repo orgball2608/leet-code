@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**153** problems solved.
+**154** problems solved.
 
-## Easy (58 solved)
+## Easy (59 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [20. Valid Parentheses](https://github.com/orgball2608/leet-code/blob/main/easy/20.%20Valid%20Parentheses.go) - [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/)
@@ -60,6 +60,7 @@ Practice and improve your LeetCode skills every day.
 - [1207. Unique Number of Occurrences](https://github.com/orgball2608/leet-code/blob/main/easy/1207.%20Unique%20Number%20of%20Occurrences.go) - [LeetCode Problem](https://leetcode.com/problems/unique-number-of-occurrences/)
 - [1237. Find Positive Integer Solution for a Given Equation](https://github.com/orgball2608/leet-code/blob/main/easy/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.go) - [LeetCode Problem](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)
 - [1732. Find the Highest Altitude](https://github.com/orgball2608/leet-code/blob/main/easy/1732.%20Find%20the%20Highest%20Altitude.go) - [LeetCode Problem](https://leetcode.com/problems/find-the-highest-altitude/)
+- [1748. Sum of Unique Elements](https://github.com/orgball2608/leet-code/blob/main/easy/1748.%20Sum%20of%20Unique%20Elements.go) - [LeetCode Problem](https://leetcode.com/problems/sum-of-unique-elements/)
 - [1768. Merge Strings Alternately](https://github.com/orgball2608/leet-code/blob/main/easy/1768.%20Merge%20Strings%20Alternately.go) - [LeetCode Problem](https://leetcode.com/problems/merge-strings-alternately/)
 - [2215. Find the Difference of Two Arrays](https://github.com/orgball2608/leet-code/blob/main/easy/2215.%20Find%20the%20Difference%20of%20Two%20Arrays.go) - [LeetCode Problem](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 - [2389. Longest Subsequence With Limited Sum](https://github.com/orgball2608/leet-code/blob/main/easy/2389.%20Longest%20Subsequence%20With%20Limited%20Sum.go) - [LeetCode Problem](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)

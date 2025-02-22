@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**157** problems solved.
+**158** problems solved.
 
 ## Easy (61 solved)
 
@@ -72,7 +72,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (87 solved)
+## Medium (88 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -144,6 +144,7 @@ Practice and improve your LeetCode skills every day.
 - [930. Binary Subarrays With Sum](https://github.com/orgball2608/leet-code/blob/main/medium/930.%20Binary%20Subarrays%20With%20Sum.go) - [LeetCode Problem](https://leetcode.com/problems/binary-subarrays-with-sum/)
 - [973. K Closest Points to Origin](https://github.com/orgball2608/leet-code/blob/main/medium/973.%20K%20Closest%20Points%20to%20Origin.go) - [LeetCode Problem](https://leetcode.com/problems/k-closest-points-to-origin/)
 - [981. Time Based Key-Value Store](https://github.com/orgball2608/leet-code/blob/main/medium/981.%20Time%20Based%20Key-Value%20Store.go) - [LeetCode Problem](https://leetcode.com/problems/time-based-key-value-store/)
+- [1004. Max Consecutive Ones III](https://github.com/orgball2608/leet-code/blob/main/medium/1004.%20Max%20Consecutive%20Ones%20III.go) - [LeetCode Problem](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - [1011. Capacity To Ship Packages Within D Days](https://github.com/orgball2608/leet-code/blob/main/medium/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.go) - [LeetCode Problem](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 - [1338. Reduce Array Size to The Half](https://github.com/orgball2608/leet-code/blob/main/medium/1338.%20Reduce%20Array%20Size%20to%20The%20Half.go) - [LeetCode Problem](https://leetcode.com/problems/reduce-array-size-to-the-half/)
 - [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://github.com/orgball2608/leet-code/blob/main/medium/1343.%20Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold.go) - [LeetCode Problem](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)

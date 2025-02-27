@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**160** problems solved.
+**161** problems solved.
 
 ## Easy (61 solved)
 
@@ -72,7 +72,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (90 solved)
+## Medium (91 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -140,6 +140,7 @@ Practice and improve your LeetCode skills every day.
 - [713. Subarray Product Less Than K](https://github.com/orgball2608/leet-code/blob/main/medium/713.%20Subarray%20Product%20Less%20Than%20K.go) - [LeetCode Problem](https://leetcode.com/problems/subarray-product-less-than-k/)
 - [739. Daily Temperatures](https://github.com/orgball2608/leet-code/blob/main/medium/739.%20Daily%20Temperatures.go) - [LeetCode Problem](https://leetcode.com/problems/daily-temperatures/)
 - [875. Koko Eating Bananas](https://github.com/orgball2608/leet-code/blob/main/medium/875.%20Koko%20Eating%20Bananas.go) - [LeetCode Problem](https://leetcode.com/problems/koko-eating-bananas/)
+- [876. Middle of the Linked List](https://github.com/orgball2608/leet-code/blob/main/medium/876.%20Middle%20of%20the%20Linked%20List.go) - [LeetCode Problem](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [904. Fruit Into Baskets](https://github.com/orgball2608/leet-code/blob/main/medium/904.%20Fruit%20Into%20Baskets.go) - [LeetCode Problem](https://leetcode.com/problems/fruit-into-baskets/)
 - [912. Sort an Array](https://github.com/orgball2608/leet-code/blob/main/medium/912.%20Sort%20an%20Array.go) - [LeetCode Problem](https://leetcode.com/problems/sort-an-array/)
 - [923. 3Sum With Multiplicity](https://github.com/orgball2608/leet-code/blob/main/medium/923.%203Sum%20With%20Multiplicity.go) - [LeetCode Problem](https://leetcode.com/problems/3sum-with-multiplicity/)

@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**161** problems solved.
+**162** problems solved.
 
 ## Easy (61 solved)
 
@@ -72,7 +72,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (91 solved)
+## Medium (92 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -96,6 +96,7 @@ Practice and improve your LeetCode skills every day.
 - [80. Remove Duplicates from Sorted Array II](https://github.com/orgball2608/leet-code/blob/main/medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.go) - [LeetCode Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 - [102. Binary Tree Level Order Traversal](https://github.com/orgball2608/leet-code/blob/main/medium/102.%20Binary%20Tree%20Level%20Order%20Traversal.go) - [LeetCode Problem](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [128. Longest Consecutive Sequence](https://github.com/orgball2608/leet-code/blob/main/medium/128.%20Longest%20Consecutive%20Sequence.go) - [LeetCode Problem](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [142. Linked List Cycle II](https://github.com/orgball2608/leet-code/blob/main/medium/142.%20Linked%20List%20Cycle%20II.go) - [LeetCode Problem](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [143. Reorder List](https://github.com/orgball2608/leet-code/blob/main/medium/143.%20Reorder%20List.go) - [LeetCode Problem](https://leetcode.com/problems/reorder-list/)
 - [146. LRU Cache](https://github.com/orgball2608/leet-code/blob/main/medium/146.%20LRU%20Cache.go) - [LeetCode Problem](https://leetcode.com/problems/lru-cache/)
 - [150. Evaluate Reverse Polish Notation](https://github.com/orgball2608/leet-code/blob/main/medium/150.%20Evaluate%20Reverse%20Polish%20Notation.go) - [LeetCode Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/)

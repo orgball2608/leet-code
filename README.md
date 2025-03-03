@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**162** problems solved.
+**163** problems solved.
 
-## Easy (61 solved)
+## Easy (62 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [20. Valid Parentheses](https://github.com/orgball2608/leet-code/blob/main/easy/20.%20Valid%20Parentheses.go) - [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/)
@@ -16,6 +16,7 @@ Practice and improve your LeetCode skills every day.
 - [35. Search Insert Position](https://github.com/orgball2608/leet-code/blob/main/easy/35.%20Search%20Insert%20Position.go) - [LeetCode Problem](https://leetcode.com/problems/search-insert-position/)
 - [66. Plus One](https://github.com/orgball2608/leet-code/blob/main/easy/66.%20Plus%20One.go) - [LeetCode Problem](https://leetcode.com/problems/plus-one/)
 - [69. Sqrt(x)](https://github.com/orgball2608/leet-code/blob/main/easy/69.%20Sqrt(x).go) - [LeetCode Problem](https://leetcode.com/problems/sqrt(x)/)
+- [83. Remove Duplicates from Sorted List](https://github.com/orgball2608/leet-code/blob/main/easy/83.%20Remove%20Duplicates%20from%20Sorted%20List.go) - [LeetCode Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [88. Merge Sorted Array](https://github.com/orgball2608/leet-code/blob/main/easy/88.%20Merge%20Sorted%20Array.go) - [LeetCode Problem](https://leetcode.com/problems/merge-sorted-array/)
 - [100. Same Tree](https://github.com/orgball2608/leet-code/blob/main/easy/100.%20Same%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/same-tree/)
 - [104. Maximum Depth of Binary Tree](https://github.com/orgball2608/leet-code/blob/main/easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/)

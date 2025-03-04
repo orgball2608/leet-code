@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**163** problems solved.
+**164** problems solved.
 
 ## Easy (62 solved)
 
@@ -73,7 +73,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (92 solved)
+## Medium (93 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -154,6 +154,7 @@ Practice and improve your LeetCode skills every day.
 - [1338. Reduce Array Size to The Half](https://github.com/orgball2608/leet-code/blob/main/medium/1338.%20Reduce%20Array%20Size%20to%20The%20Half.go) - [LeetCode Problem](https://leetcode.com/problems/reduce-array-size-to-the-half/)
 - [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://github.com/orgball2608/leet-code/blob/main/medium/1343.%20Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold.go) - [LeetCode Problem](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
 - [1448. Count Good Nodes in Binary Tree](https://github.com/orgball2608/leet-code/blob/main/medium/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+- [1472. Design Browser History](https://github.com/orgball2608/leet-code/blob/main/medium/1472.%20Design%20Browser%20History.go) - [LeetCode Problem](https://leetcode.com/problems/design-browser-history/)
 - [1493. Longest Subarray of 1's After Deleting One Element](https://github.com/orgball2608/leet-code/blob/main/medium/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.go) - [LeetCode Problem](https://leetcode.com/problems/longest-subarray-of-1's-after-deleting-one-element/)
 - [1574. Shortest Subarray to be Removed to Make Array Sorted](https://github.com/orgball2608/leet-code/blob/main/medium/1574.%20Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted.go) - [LeetCode Problem](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)
 - [1642. Furthest Building You Can Reach](https://github.com/orgball2608/leet-code/blob/main/medium/1642.%20Furthest%20Building%20You%20Can%20Reach.go) - [LeetCode Problem](https://leetcode.com/problems/furthest-building-you-can-reach/)

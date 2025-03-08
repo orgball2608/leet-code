@@ -18,7 +18,7 @@ func swap(u int, k int) int {
 // O(logN)
 // Space: O(1)
 
-func findComplement(num int) int {
+func findComplement2(num int) int {
 	temp := num
 	length := 0
 	for temp > 0 {

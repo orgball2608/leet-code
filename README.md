@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**168** problems solved.
+**169** problems solved.
 
-## Easy (65 solved)
+## Easy (66 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [20. Valid Parentheses](https://github.com/orgball2608/leet-code/blob/main/easy/20.%20Valid%20Parentheses.go) - [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/)
@@ -33,6 +33,7 @@ Practice and improve your LeetCode skills every day.
 - [217. Contains Duplicate](https://github.com/orgball2608/leet-code/blob/main/easy/217.%20Contains%20Duplicate.go) - [LeetCode Problem](https://leetcode.com/problems/contains-duplicate/)
 - [219. Contains Duplicate II](https://github.com/orgball2608/leet-code/blob/main/easy/219.%20Contains%20Duplicate%20II.go) - [LeetCode Problem](https://leetcode.com/problems/contains-duplicate-ii/)
 - [226. Invert Binary Tree](https://github.com/orgball2608/leet-code/blob/main/easy/226.%20Invert%20Binary%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/invert-binary-tree/)
+- [231. Power of Two](https://github.com/orgball2608/leet-code/blob/main/easy/231.%20Power%20of%20Two.go) - [LeetCode Problem](https://leetcode.com/problems/power-of-two/)
 - [234. Palindrome Linked List](https://github.com/orgball2608/leet-code/blob/main/easy/234.%20Palindrome%20Linked%20List.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-linked-list/)
 - [242. Valid Anagram](https://github.com/orgball2608/leet-code/blob/main/easy/242.%20Valid%20Anagram.go) - [LeetCode Problem](https://leetcode.com/problems/valid-anagram/)
 - [268. Missing Number](https://github.com/orgball2608/leet-code/blob/main/easy/268.%20Missing%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/missing-number/)

@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**171** problems solved.
+**173** problems solved.
 
 ## Easy (66 solved)
 
@@ -77,7 +77,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (96 solved)
+## Medium (98 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -103,6 +103,7 @@ Practice and improve your LeetCode skills every day.
 - [90. Subsets II](https://github.com/orgball2608/leet-code/blob/main/medium/90.%20Subsets%20II.go) - [LeetCode Problem](https://leetcode.com/problems/subsets-ii/)
 - [102. Binary Tree Level Order Traversal](https://github.com/orgball2608/leet-code/blob/main/medium/102.%20Binary%20Tree%20Level%20Order%20Traversal.go) - [LeetCode Problem](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [128. Longest Consecutive Sequence](https://github.com/orgball2608/leet-code/blob/main/medium/128.%20Longest%20Consecutive%20Sequence.go) - [LeetCode Problem](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [137. Single Number II](https://github.com/orgball2608/leet-code/blob/main/medium/137.%20Single%20Number%20II.go) - [LeetCode Problem](https://leetcode.com/problems/single-number-ii/)
 - [142. Linked List Cycle II](https://github.com/orgball2608/leet-code/blob/main/medium/142.%20Linked%20List%20Cycle%20II.go) - [LeetCode Problem](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [143. Reorder List](https://github.com/orgball2608/leet-code/blob/main/medium/143.%20Reorder%20List.go) - [LeetCode Problem](https://leetcode.com/problems/reorder-list/)
 - [146. LRU Cache](https://github.com/orgball2608/leet-code/blob/main/medium/146.%20LRU%20Cache.go) - [LeetCode Problem](https://leetcode.com/problems/lru-cache/)
@@ -116,6 +117,7 @@ Practice and improve your LeetCode skills every day.
 - [189. Rotate Array](https://github.com/orgball2608/leet-code/blob/main/medium/189.%20Rotate%20Array.go) - [LeetCode Problem](https://leetcode.com/problems/rotate-array/)
 - [198. House Robber](https://github.com/orgball2608/leet-code/blob/main/medium/198.%20House%20Robber.go) - [LeetCode Problem](https://leetcode.com/problems/house-robber/)
 - [199. Binary Tree Right Side View](https://github.com/orgball2608/leet-code/blob/main/medium/199.%20Binary%20Tree%20Right%20Side%20View.go) - [LeetCode Problem](https://leetcode.com/problems/binary-tree-right-side-view/)
+- [201. Bitwise AND of Numbers Range](https://github.com/orgball2608/leet-code/blob/main/medium/201.%20Bitwise%20AND%20of%20Numbers%20Range.go) - [LeetCode Problem](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
 - [208. Implement Trie (Prefix Tree)](https://github.com/orgball2608/leet-code/blob/main/medium/208.%20Implement%20Trie%20(Prefix%20Tree).go) - [LeetCode Problem](https://leetcode.com/problems/implement-trie-(prefix-tree)/)
 - [209. Minimum Size Subarray Sum](https://github.com/orgball2608/leet-code/blob/main/medium/209.%20Minimum%20Size%20Subarray%20Sum.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [211. Design Add and Search Words Data Structure](https://github.com/orgball2608/leet-code/blob/main/medium/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.go) - [LeetCode Problem](https://leetcode.com/problems/design-add-and-search-words-data-structure/)

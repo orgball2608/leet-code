@@ -1,42 +1,46 @@
 package medium
 
 type MinStack struct {
-	stack    []int
-	minStack []int
-	topEl    int
+	Stack    []int
+	MinStack []int
 }
 
 func Constructor() MinStack {
 	return MinStack{
-		stack:    []int{},
-		minStack: []int{},
-		topEl:    -1,
+		Stack:    []int{},
+		MinStack: []int{},
 	}
 }
 
-func (ms *MinStack) Push(val int) {
-	if ms.topEl == -1 {
-		ms.minStack = append(ms.minStack, val)
-	} else {
-		ms.minStack = append(ms.minStack, min(ms.minStack[ms.topEl], val))
+func (this *MinStack) Push(val int) {
+	if len(this.Stack) == 0 || val <= this.MinStack[len(this.MinStack)-1] {
+		this.MinStack = append(this.MinStack, val)
 	}
-	ms.stack = append(ms.stack, val)
-	ms.topEl++
+	this.Stack = append(this.Stack, val)
 }
 
-func (ms *MinStack) Pop() {
-	ms.stack = ms.stack[:ms.topEl]
-	ms.minStack = ms.minStack[:ms.topEl]
-	ms.topEl--
-	return
+func (this *MinStack) Pop() {
+	if len(this.Stack) == 0 {
+		return
+	}
+	if this.Stack[len(this.Stack)-1] == this.MinStack[len(this.MinStack)-1] {
+		this.MinStack = this.MinStack[:len(this.MinStack)-1]
+	}
+	this.Stack = this.Stack[:len(this.Stack)-1]
 }
 
-func (ms *MinStack) Top() int {
-	return ms.stack[ms.topEl]
+func (this *MinStack) Top() int {
+	if len(this.Stack) == 0 {
+		return 0
+	}
+	return this.Stack[len(this.Stack)-1]
 }
 
-func (ms *MinStack) GetMin() int {
-	return ms.minStack[ms.topEl]
+func (this *MinStack) GetMin() int {
+	if len(this.MinStack) == 0 {
+		return 0
+	}
+	return this.MinStack[len(this.MinStack)-1]
 }
 
 /**

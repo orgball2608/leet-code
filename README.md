@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**174** problems solved.
+**175** problems solved.
 
 ## Easy (66 solved)
 
@@ -77,7 +77,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (99 solved)
+## Medium (100 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -144,6 +144,7 @@ Practice and improve your LeetCode skills every day.
 - [567. Permutation in String](https://github.com/orgball2608/leet-code/blob/main/medium/567.%20Permutation%20in%20String.go) - [LeetCode Problem](https://leetcode.com/problems/permutation-in-string/)
 - [611. Valid Triangle Number](https://github.com/orgball2608/leet-code/blob/main/medium/611.%20Valid%20Triangle%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/valid-triangle-number/)
 - [621. Task Scheduler](https://github.com/orgball2608/leet-code/blob/main/medium/621.%20Task%20Scheduler.go) - [LeetCode Problem](https://leetcode.com/problems/task-scheduler/)
+- [622. Design Circular Queue](https://github.com/orgball2608/leet-code/blob/main/medium/622.%20Design%20Circular%20Queue.go) - [LeetCode Problem](https://leetcode.com/problems/design-circular-queue/)
 - [633. Sum of Square Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/633.%20Sum%20of%20Square%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/sum-of-square-numbers/)
 - [658. Find K Closest Elements](https://github.com/orgball2608/leet-code/blob/main/medium/658.%20Find%20K%20Closest%20Elements.go) - [LeetCode Problem](https://leetcode.com/problems/find-k-closest-elements/)
 - [665. Non-decreasing Array](https://github.com/orgball2608/leet-code/blob/main/medium/665.%20Non-decreasing%20Array.go) - [LeetCode Problem](https://leetcode.com/problems/non-decreasing-array/)

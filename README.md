@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**175** problems solved.
+**176** problems solved.
 
-## Easy (66 solved)
+## Easy (67 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [20. Valid Parentheses](https://github.com/orgball2608/leet-code/blob/main/easy/20.%20Valid%20Parentheses.go) - [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/)
@@ -47,6 +47,7 @@ Practice and improve your LeetCode skills every day.
 - [389. Find the Difference](https://github.com/orgball2608/leet-code/blob/main/easy/389.%20Find%20the%20Difference.go) - [LeetCode Problem](https://leetcode.com/problems/find-the-difference/)
 - [392. Is Subsequence](https://github.com/orgball2608/leet-code/blob/main/easy/392.%20Is%20Subsequence.go) - [LeetCode Problem](https://leetcode.com/problems/is-subsequence/)
 - [476. Number Complement](https://github.com/orgball2608/leet-code/blob/main/easy/476.%20Number%20Complement.go) - [LeetCode Problem](https://leetcode.com/problems/number-complement/)
+- [496. Next Greater Element I](https://github.com/orgball2608/leet-code/blob/main/easy/496.%20Next%20Greater%20Element%20I.go) - [LeetCode Problem](https://leetcode.com/problems/next-greater-element-i/)
 - [500. Keyboard Row](https://github.com/orgball2608/leet-code/blob/main/easy/500.%20Keyboard%20Row.go) - [LeetCode Problem](https://leetcode.com/problems/keyboard-row/)
 - [506. Relative Ranks](https://github.com/orgball2608/leet-code/blob/main/easy/506.%20Relative%20Ranks.go) - [LeetCode Problem](https://leetcode.com/problems/relative-ranks/)
 - [543. Diameter of Binary Tree](https://github.com/orgball2608/leet-code/blob/main/easy/543.%20Diameter%20of%20Binary%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/diameter-of-binary-tree/)

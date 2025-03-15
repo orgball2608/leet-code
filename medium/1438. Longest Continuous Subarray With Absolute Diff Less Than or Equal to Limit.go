@@ -18,13 +18,13 @@ func longestSubarray(nums []int, limit int) int {
 		minQueue = append(minQueue, right)
 
 		for nums[maxQueue[0]]-nums[minQueue[0]] > limit {
-			left++
-			if maxQueue[0] < left {
+			if maxQueue[0] == left {
 				maxQueue = maxQueue[1:]
 			}
-			if minQueue[0] < left {
+			if minQueue[0] == left {
 				minQueue = minQueue[1:]
 			}
+			left++
 		}
 		maxLen = max(maxLen, right-left+1)
 	}

@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**182** problems solved.
+**183** problems solved.
 
 ## Easy (67 solved)
 
@@ -78,7 +78,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (104 solved)
+## Medium (105 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -176,6 +176,7 @@ Practice and improve your LeetCode skills every day.
 - [1642. Furthest Building You Can Reach](https://github.com/orgball2608/leet-code/blob/main/medium/1642.%20Furthest%20Building%20You%20Can%20Reach.go) - [LeetCode Problem](https://leetcode.com/problems/furthest-building-you-can-reach/)
 - [1657. Determine if Two Strings Are Close](https://github.com/orgball2608/leet-code/blob/main/medium/1657.%20Determine%20if%20Two%20Strings%20Are%20Close.go) - [LeetCode Problem](https://leetcode.com/problems/determine-if-two-strings-are-close/)
 - [1695. Maximum Erasure Value](https://github.com/orgball2608/leet-code/blob/main/medium/1695.%20Maximum%20Erasure%20Value.go) - [LeetCode Problem](https://leetcode.com/problems/maximum-erasure-value/)
+- [1856. Maximum Subarray Min-Product](https://github.com/orgball2608/leet-code/blob/main/medium/1856.%20Maximum%20Subarray%20Min-Product.go) - [LeetCode Problem](https://leetcode.com/problems/maximum-subarray-min-product/)
 - [2300. Successful Pairs of Spells and Potions](https://github.com/orgball2608/leet-code/blob/main/medium/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.go) - [LeetCode Problem](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
 - [2336. Smallest Number in Infinite Set](https://github.com/orgball2608/leet-code/blob/main/medium/2336.%20Smallest%20Number%20in%20Infinite%20Set.go) - [LeetCode Problem](https://leetcode.com/problems/smallest-number-in-infinite-set/)
 - [2410. Maximum Matching of Players With Trainers](https://github.com/orgball2608/leet-code/blob/main/medium/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.go) - [LeetCode Problem](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/)

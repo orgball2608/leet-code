@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**188** problems solved.
+**189** problems solved.
 
 ## Easy (68 solved)
 
@@ -79,7 +79,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (109 solved)
+## Medium (110 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -104,6 +104,7 @@ Practice and improve your LeetCode skills every day.
 - [75. Sort Colors](https://github.com/orgball2608/leet-code/blob/main/medium/75.%20Sort%20Colors.go) - [LeetCode Problem](https://leetcode.com/problems/sort-colors/)
 - [77. Combinations](https://github.com/orgball2608/leet-code/blob/main/medium/77.%20Combinations.go) - [LeetCode Problem](https://leetcode.com/problems/combinations/)
 - [78. Subsets](https://github.com/orgball2608/leet-code/blob/main/medium/78.%20Subsets.go) - [LeetCode Problem](https://leetcode.com/problems/subsets/)
+- [79. Word Search](https://github.com/orgball2608/leet-code/blob/main/medium/79.%20Word%20Search.go) - [LeetCode Problem](https://leetcode.com/problems/word-search/)
 - [80. Remove Duplicates from Sorted Array II](https://github.com/orgball2608/leet-code/blob/main/medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.go) - [LeetCode Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 - [90. Subsets II](https://github.com/orgball2608/leet-code/blob/main/medium/90.%20Subsets%20II.go) - [LeetCode Problem](https://leetcode.com/problems/subsets-ii/)
 - [102. Binary Tree Level Order Traversal](https://github.com/orgball2608/leet-code/blob/main/medium/102.%20Binary%20Tree%20Level%20Order%20Traversal.go) - [LeetCode Problem](https://leetcode.com/problems/binary-tree-level-order-traversal/)

@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**193** problems solved.
+**194** problems solved.
 
 ## Easy (69 solved)
 
@@ -80,7 +80,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (113 solved)
+## Medium (114 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -138,6 +138,7 @@ Practice and improve your LeetCode skills every day.
 - [347. Top K Frequent Elements](https://github.com/orgball2608/leet-code/blob/main/medium/347.%20Top%20K%20Frequent%20Elements.go) - [LeetCode Problem](https://leetcode.com/problems/top-k-frequent-elements/)
 - [355. Design Twitter](https://github.com/orgball2608/leet-code/blob/main/medium/355.%20Design%20Twitter.go) - [LeetCode Problem](https://leetcode.com/problems/design-twitter/)
 - [367. Valid Perfect Square](https://github.com/orgball2608/leet-code/blob/main/medium/367.%20Valid%20Perfect%20Square.go) - [LeetCode Problem](https://leetcode.com/problems/valid-perfect-square/)
+- [380. Insert Delete GetRandom O(1)](https://github.com/orgball2608/leet-code/blob/main/medium/380.%20Insert%20Delete%20GetRandom%20O(1).go) - [LeetCode Problem](https://leetcode.com/problems/insert-delete-getrandom-o(1)/)
 - [397. Integer Replacement](https://github.com/orgball2608/leet-code/blob/main/medium/397.%20Integer%20Replacement.go) - [LeetCode Problem](https://leetcode.com/problems/integer-replacement/)
 - [398. Random Pick Index](https://github.com/orgball2608/leet-code/blob/main/medium/398.%20Random%20Pick%20Index.go) - [LeetCode Problem](https://leetcode.com/problems/random-pick-index/)
 - [402. Remove K Digits](https://github.com/orgball2608/leet-code/blob/main/medium/402.%20Remove%20K%20Digits.go) - [LeetCode Problem](https://leetcode.com/problems/remove-k-digits/)

@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**194** problems solved.
+**195** problems solved.
 
 ## Easy (69 solved)
 
@@ -80,7 +80,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (114 solved)
+## Medium (115 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -152,6 +152,7 @@ Practice and improve your LeetCode skills every day.
 - [475. Heaters](https://github.com/orgball2608/leet-code/blob/main/medium/475.%20Heaters.go) - [LeetCode Problem](https://leetcode.com/problems/heaters/)
 - [503. Next Greater Element II](https://github.com/orgball2608/leet-code/blob/main/medium/503.%20Next%20Greater%20Element%20II.go) - [LeetCode Problem](https://leetcode.com/problems/next-greater-element-ii/)
 - [523. Continuous Subarray Sum](https://github.com/orgball2608/leet-code/blob/main/medium/523.%20Continuous%20Subarray%20Sum.go) - [LeetCode Problem](https://leetcode.com/problems/continuous-subarray-sum/)
+- [528. Random Pick with Weight](https://github.com/orgball2608/leet-code/blob/main/medium/528.%20Random%20Pick%20with%20Weight.go) - [LeetCode Problem](https://leetcode.com/problems/random-pick-with-weight/)
 - [560. Subarray Sum Equals K](https://github.com/orgball2608/leet-code/blob/main/medium/560.%20Subarray%20Sum%20Equals%20K.go) - [LeetCode Problem](https://leetcode.com/problems/subarray-sum-equals-k/)
 - [567. Permutation in String](https://github.com/orgball2608/leet-code/blob/main/medium/567.%20Permutation%20in%20String.go) - [LeetCode Problem](https://leetcode.com/problems/permutation-in-string/)
 - [611. Valid Triangle Number](https://github.com/orgball2608/leet-code/blob/main/medium/611.%20Valid%20Triangle%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/valid-triangle-number/)

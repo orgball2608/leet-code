@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**196** problems solved.
+**197** problems solved.
 
-## Easy (69 solved)
+## Easy (70 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [20. Valid Parentheses](https://github.com/orgball2608/leet-code/blob/main/easy/20.%20Valid%20Parentheses.go) - [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/)
@@ -62,6 +62,7 @@ Practice and improve your LeetCode skills every day.
 - [724. Find Pivot Index](https://github.com/orgball2608/leet-code/blob/main/easy/724.%20Find%20Pivot%20Index.go) - [LeetCode Problem](https://leetcode.com/problems/find-pivot-index/)
 - [844. Backspace String Compare](https://github.com/orgball2608/leet-code/blob/main/easy/844.%20Backspace%20String%20Compare.go) - [LeetCode Problem](https://leetcode.com/problems/backspace-string-compare/)
 - [872. Leaf-Similar Trees](https://github.com/orgball2608/leet-code/blob/main/easy/872.%20Leaf-Similar%20Trees.go) - [LeetCode Problem](https://leetcode.com/problems/leaf-similar-trees/)
+- [911. Online Election](https://github.com/orgball2608/leet-code/blob/main/easy/911.%20Online%20Election.go) - [LeetCode Problem](https://leetcode.com/problems/online-election/)
 - [929. Unique Email Addresses](https://github.com/orgball2608/leet-code/blob/main/easy/929.%20Unique%20Email%20Addresses.go) - [LeetCode Problem](https://leetcode.com/problems/unique-email-addresses/)
 - [933. Number of Recent Calls](https://github.com/orgball2608/leet-code/blob/main/easy/933.%20Number%20of%20Recent%20Calls.go) - [LeetCode Problem](https://leetcode.com/problems/number-of-recent-calls/)
 - [977. Squares of a Sorted Array](https://github.com/orgball2608/leet-code/blob/main/easy/977.%20Squares%20of%20a%20Sorted%20Array.go) - [LeetCode Problem](https://leetcode.com/problems/squares-of-a-sorted-array/)

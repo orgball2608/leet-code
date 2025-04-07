@@ -24,13 +24,23 @@ func lengthOfLIS(nums []int) int {
 	return max
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
+// Time: O(N*N)
+// Space: O(N)
+
+func lengthOfLIS(nums []int) int {
+	var sub []int
+	for _, val := range nums {
+		if len(sub) == 0 || val > sub[len(sub)-1] {
+			sub = append(sub, val)
+			continue
+		}
+
+		i := sort.Search(len(sub), func(i int) bool { return sub[i] >= val })
+		sub[i] = val
 	}
 
-	return b
+	return len(sub)
 }
 
-// Time: O(N*N)
+// Time: O(N*logN)
 // Space: O(N)

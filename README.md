@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**197** problems solved.
+**198** problems solved.
 
 ## Easy (70 solved)
 
@@ -199,12 +199,13 @@ Practice and improve your LeetCode skills every day.
 - [2542. Maximum Subsequence Score](https://github.com/orgball2608/leet-code/blob/main/medium/2542.%20Maximum%20Subsequence%20Score.go) - [LeetCode Problem](https://leetcode.com/problems/maximum-subsequence-score/)
 - [3092. Most Frequent IDs](https://github.com/orgball2608/leet-code/blob/main/medium/3092.%20Most%20Frequent%20IDs.go) - [LeetCode Problem](https://leetcode.com/problems/most-frequent-ids/)
 
-## Hard (6 solved)
+## Hard (7 solved)
 
 - [23. Merge k Sorted Lists](https://github.com/orgball2608/leet-code/blob/main/hard/23.%20Merge%20k%20Sorted%20Lists.go) - [LeetCode Problem](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [76. Minimum Window Substring](https://github.com/orgball2608/leet-code/blob/main/hard/76.%20Minimum%20Window%20Substring.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-window-substring/)
 - [239. Sliding Window Maximum](https://github.com/orgball2608/leet-code/blob/main/hard/239.%20Sliding%20Window%20Maximum.go) - [LeetCode Problem](https://leetcode.com/problems/sliding-window-maximum/)
 - [295. Find Median from Data Stream](https://github.com/orgball2608/leet-code/blob/main/hard/295.%20Find%20Median%20from%20Data%20Stream.go) - [LeetCode Problem](https://leetcode.com/problems/find-median-from-data-stream/)
 - [354. Russian Doll Envelopes](https://github.com/orgball2608/leet-code/blob/main/hard/354.%20Russian%20Doll%20Envelopes.go) - [LeetCode Problem](https://leetcode.com/problems/russian-doll-envelopes/)
+- [460. LFU Cache](https://github.com/orgball2608/leet-code/blob/main/hard/460.%20LFU%20Cache.go) - [LeetCode Problem](https://leetcode.com/problems/lfu-cache/)
 - [1793. Maximum Score of a Good Subarray](https://github.com/orgball2608/leet-code/blob/main/hard/1793.%20Maximum%20Score%20of%20a%20Good%20Subarray.go) - [LeetCode Problem](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)
 

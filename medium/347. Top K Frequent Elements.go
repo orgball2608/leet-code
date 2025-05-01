@@ -1,6 +1,11 @@
 package medium
 
-func topKFrequent(nums []int, k int) []int {
+import (
+	"math/rand"
+	"time"
+)
+
+func topKFrequent1(nums []int, k int) []int {
 	hashmap := make(map[int]int)
 	for _, val := range nums {
 		hashmap[val]++
@@ -37,7 +42,7 @@ func topKFrequent(nums []int, k int) []int {
 // O(N)
 // O(N)
 
-//func topKFrequent(nums []int, k int) []int {
+//func topKFrequent2(nums []int, k int) []int {
 //	hashmap := make(map[int]int)
 //	for _, val := range nums {
 //		hashmap[val]++
@@ -73,7 +78,7 @@ type Pair struct {
 	Count int
 }
 
-func topKFrequent(nums []int, k int) []int {
+func topKFrequent3(nums []int, k int) []int {
 	hash := make(map[int]int)
 	for _, val := range nums {
 		hash[val]++

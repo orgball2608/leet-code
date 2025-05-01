@@ -41,3 +41,49 @@ func findKthLargest(nums []int, k int) int {
 
 // Time: O(NlogK)
 // Space O(K)
+
+func findKthLargest(nums []int, k int) int {
+	return quickSelect(nums, 0, len(nums)-1, k-1)
+}
+
+func quickSelect(nums []int, start, end int, k int) int {
+	if end == start {
+		return nums[start]
+	}
+
+	randomIndex := start + rand.Intn(end-start+1)
+	pivot := nums[randomIndex]
+	swap(nums, randomIndex, end)
+
+	currentLeft := start
+	for i := start; i <= end; i++ {
+		if nums[i] > pivot {
+			swap(nums, i, currentLeft)
+			currentLeft++
+		}
+	}
+
+	swap(nums, end, currentLeft)
+	currentRight := end
+	for i := end; i > currentLeft; i-- {
+		if nums[i] < pivot {
+			swap(nums, i, currentRight)
+			currentRight--
+		}
+	}
+
+	if currentLeft <= k && k <= currentRight {
+		return pivot
+	} else if currentLeft > k {
+		return quickSelect(nums, start, currentLeft-1, k)
+	} else {
+		return quickSelect(nums, currentRight+1, end, k)
+	}
+}
+
+func swap(nums []int, i, j int) {
+	nums[i], nums[j] = nums[j], nums[i]
+}
+
+// Time: N + N/2 + N/4 + ... = O(N)
+// Space: O(1)

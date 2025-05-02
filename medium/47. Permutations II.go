@@ -37,4 +37,4 @@ func permuteUnique(nums []int) [][]int {
 }
 
 // Time: O(n*n!)
-// Space: O(n)
+// Space: O(n) for recursion stack + O(n) for used array + O(n) for curSolutions

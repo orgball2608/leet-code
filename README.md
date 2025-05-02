@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**200** problems solved.
+**201** problems solved.
 
-## Easy (71 solved)
+## Easy (72 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [20. Valid Parentheses](https://github.com/orgball2608/leet-code/blob/main/easy/20.%20Valid%20Parentheses.go) - [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/)
@@ -20,6 +20,7 @@ Practice and improve your LeetCode skills every day.
 - [83. Remove Duplicates from Sorted List](https://github.com/orgball2608/leet-code/blob/main/easy/83.%20Remove%20Duplicates%20from%20Sorted%20List.go) - [LeetCode Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [88. Merge Sorted Array](https://github.com/orgball2608/leet-code/blob/main/easy/88.%20Merge%20Sorted%20Array.go) - [LeetCode Problem](https://leetcode.com/problems/merge-sorted-array/)
 - [100. Same Tree](https://github.com/orgball2608/leet-code/blob/main/easy/100.%20Same%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/same-tree/)
+- [101. Symmetric Tree](https://github.com/orgball2608/leet-code/blob/main/easy/101.%20Symmetric%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/symmetric-tree/)
 - [104. Maximum Depth of Binary Tree](https://github.com/orgball2608/leet-code/blob/main/easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [110. Balanced Binary Tree](https://github.com/orgball2608/leet-code/blob/main/easy/110.%20Balanced%20Binary%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/balanced-binary-tree/)
 - [118. Pascal's Triangle](https://github.com/orgball2608/leet-code/blob/main/easy/118.%20Pascal's%20Triangle.go) - [LeetCode Problem](https://leetcode.com/problems/pascal's-triangle/)

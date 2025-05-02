@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**202** problems solved.
+**203** problems solved.
 
 ## Easy (72 solved)
 
@@ -83,7 +83,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (117 solved)
+## Medium (118 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -135,6 +135,7 @@ Practice and improve your LeetCode skills every day.
 - [211. Design Add and Search Words Data Structure](https://github.com/orgball2608/leet-code/blob/main/medium/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.go) - [LeetCode Problem](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 - [215. Kth Largest Element in an Array](https://github.com/orgball2608/leet-code/blob/main/medium/215.%20Kth%20Largest%20Element%20in%20an%20Array.go) - [LeetCode Problem](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [227. Basic Calculator II](https://github.com/orgball2608/leet-code/blob/main/medium/227.%20Basic%20Calculator%20II.go) - [LeetCode Problem](https://leetcode.com/problems/basic-calculator-ii/)
+- [230. Kth Smallest Element in a BST](https://github.com/orgball2608/leet-code/blob/main/medium/230.%20Kth%20Smallest%20Element%20in%20a%20BST.go) - [LeetCode Problem](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/orgball2608/leet-code/blob/main/medium/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [238. Product of Array Except Self](https://github.com/orgball2608/leet-code/blob/main/medium/238.%20Product%20of%20Array%20Except%20Self.go) - [LeetCode Problem](https://leetcode.com/problems/product-of-array-except-self/)
 - [275. H-Index II](https://github.com/orgball2608/leet-code/blob/main/medium/275.%20H-Index%20II.go) - [LeetCode Problem](https://leetcode.com/problems/h-index-ii/)

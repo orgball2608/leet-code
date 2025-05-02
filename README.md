@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**207** problems solved.
+**208** problems solved.
 
 ## Easy (72 solved)
 
@@ -83,7 +83,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (122 solved)
+## Medium (123 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -144,6 +144,7 @@ Practice and improve your LeetCode skills every day.
 - [275. H-Index II](https://github.com/orgball2608/leet-code/blob/main/medium/275.%20H-Index%20II.go) - [LeetCode Problem](https://leetcode.com/problems/h-index-ii/)
 - [287. Find the Duplicate Number](https://github.com/orgball2608/leet-code/blob/main/medium/287.%20Find%20the%20Duplicate%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/find-the-duplicate-number/)
 - [300. Longest Increasing Subsequence](https://github.com/orgball2608/leet-code/blob/main/medium/300.%20Longest%20Increasing%20Subsequence.go) - [LeetCode Problem](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [328. Odd Even Linked List](https://github.com/orgball2608/leet-code/blob/main/medium/328.%20Odd%20Even%20Linked%20List.go) - [LeetCode Problem](https://leetcode.com/problems/odd-even-linked-list/)
 - [347. Top K Frequent Elements](https://github.com/orgball2608/leet-code/blob/main/medium/347.%20Top%20K%20Frequent%20Elements.go) - [LeetCode Problem](https://leetcode.com/problems/top-k-frequent-elements/)
 - [355. Design Twitter](https://github.com/orgball2608/leet-code/blob/main/medium/355.%20Design%20Twitter.go) - [LeetCode Problem](https://leetcode.com/problems/design-twitter/)
 - [367. Valid Perfect Square](https://github.com/orgball2608/leet-code/blob/main/medium/367.%20Valid%20Perfect%20Square.go) - [LeetCode Problem](https://leetcode.com/problems/valid-perfect-square/)

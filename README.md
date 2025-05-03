@@ -6,11 +6,12 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**209** problems solved.
+**210** problems solved.
 
-## Easy (73 solved)
+## Easy (74 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
+- [14. Longest Common Prefix](https://github.com/orgball2608/leet-code/blob/main/easy/14.%20Longest%20Common%20Prefix.go) - [LeetCode Problem](https://leetcode.com/problems/longest-common-prefix/)
 - [20. Valid Parentheses](https://github.com/orgball2608/leet-code/blob/main/easy/20.%20Valid%20Parentheses.go) - [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/)
 - [28. Find the Index of the First Occurrence in a String](https://github.com/orgball2608/leet-code/blob/main/easy/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.go) - [LeetCode Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 - [35. Search Insert Position](https://github.com/orgball2608/leet-code/blob/main/easy/35.%20Search%20Insert%20Position.go) - [LeetCode Problem](https://leetcode.com/problems/search-insert-position/)

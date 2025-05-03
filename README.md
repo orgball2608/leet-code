@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**210** problems solved.
+**211** problems solved.
 
-## Easy (74 solved)
+## Easy (75 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [14. Longest Common Prefix](https://github.com/orgball2608/leet-code/blob/main/easy/14.%20Longest%20Common%20Prefix.go) - [LeetCode Problem](https://leetcode.com/problems/longest-common-prefix/)
@@ -31,6 +31,7 @@ Practice and improve your LeetCode skills every day.
 - [136. Single Number](https://github.com/orgball2608/leet-code/blob/main/easy/136.%20Single%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/single-number/)
 - [141. Linked List Cycle](https://github.com/orgball2608/leet-code/blob/main/easy/141.%20Linked%20List%20Cycle.go) - [LeetCode Problem](https://leetcode.com/problems/linked-list-cycle/)
 - [145. Binary Tree Postorder Traversal](https://github.com/orgball2608/leet-code/blob/main/easy/145.%20Binary%20Tree%20Postorder%20Traversal.go) - [LeetCode Problem](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- [169. Majority Element](https://github.com/orgball2608/leet-code/blob/main/easy/169.%20Majority%20Element.go) - [LeetCode Problem](https://leetcode.com/problems/majority-element/)
 - [190. Reverse Bits](https://github.com/orgball2608/leet-code/blob/main/easy/190.%20Reverse%20Bits.go) - [LeetCode Problem](https://leetcode.com/problems/reverse-bits/)
 - [191. Number of 1 Bits](https://github.com/orgball2608/leet-code/blob/main/easy/191.%20Number%20of%201%20Bits.go) - [LeetCode Problem](https://leetcode.com/problems/number-of-1-bits/)
 - [202. Happy Number](https://github.com/orgball2608/leet-code/blob/main/easy/202.%20Happy%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/happy-number/)

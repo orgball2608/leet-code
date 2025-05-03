@@ -6,14 +6,15 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**208** problems solved.
+**209** problems solved.
 
-## Easy (72 solved)
+## Easy (73 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [20. Valid Parentheses](https://github.com/orgball2608/leet-code/blob/main/easy/20.%20Valid%20Parentheses.go) - [LeetCode Problem](https://leetcode.com/problems/valid-parentheses/)
 - [28. Find the Index of the First Occurrence in a String](https://github.com/orgball2608/leet-code/blob/main/easy/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.go) - [LeetCode Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 - [35. Search Insert Position](https://github.com/orgball2608/leet-code/blob/main/easy/35.%20Search%20Insert%20Position.go) - [LeetCode Problem](https://leetcode.com/problems/search-insert-position/)
+- [58. Length of Last Word](https://github.com/orgball2608/leet-code/blob/main/easy/58.%20Length%20of%20Last%20Word.go) - [LeetCode Problem](https://leetcode.com/problems/length-of-last-word/)
 - [66. Plus One](https://github.com/orgball2608/leet-code/blob/main/easy/66.%20Plus%20One.go) - [LeetCode Problem](https://leetcode.com/problems/plus-one/)
 - [69. Sqrt(x)](https://github.com/orgball2608/leet-code/blob/main/easy/69.%20Sqrt(x).go) - [LeetCode Problem](https://leetcode.com/problems/sqrt(x)/)
 - [70. Climbing Stairs](https://github.com/orgball2608/leet-code/blob/main/easy/70.%20Climbing%20Stairs.go) - [LeetCode Problem](https://leetcode.com/problems/climbing-stairs/)

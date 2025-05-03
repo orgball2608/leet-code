@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**212** problems solved.
+**213** problems solved.
 
-## Easy (75 solved)
+## Easy (76 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [14. Longest Common Prefix](https://github.com/orgball2608/leet-code/blob/main/easy/14.%20Longest%20Common%20Prefix.go) - [LeetCode Problem](https://leetcode.com/problems/longest-common-prefix/)
@@ -49,6 +49,7 @@ Practice and improve your LeetCode skills every day.
 - [344. Reverse String](https://github.com/orgball2608/leet-code/blob/main/easy/344.%20Reverse%20String.go) - [LeetCode Problem](https://leetcode.com/problems/reverse-string/)
 - [349. Intersection of Two Arrays](https://github.com/orgball2608/leet-code/blob/main/easy/349.%20Intersection%20of%20Two%20Arrays.go) - [LeetCode Problem](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [374. Guess Number Higher or Lower](https://github.com/orgball2608/leet-code/blob/main/easy/374.%20Guess%20Number%20Higher%20or%20Lower.go) - [LeetCode Problem](https://leetcode.com/problems/guess-number-higher-or-lower/)
+- [383. Ransom Note](https://github.com/orgball2608/leet-code/blob/main/easy/383.%20Ransom%20Note.go) - [LeetCode Problem](https://leetcode.com/problems/ransom-note/)
 - [387. First Unique Character in a String](https://github.com/orgball2608/leet-code/blob/main/easy/387.%20First%20Unique%20Character%20in%20a%20String.go) - [LeetCode Problem](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [389. Find the Difference](https://github.com/orgball2608/leet-code/blob/main/easy/389.%20Find%20the%20Difference.go) - [LeetCode Problem](https://leetcode.com/problems/find-the-difference/)
 - [392. Is Subsequence](https://github.com/orgball2608/leet-code/blob/main/easy/392.%20Is%20Subsequence.go) - [LeetCode Problem](https://leetcode.com/problems/is-subsequence/)

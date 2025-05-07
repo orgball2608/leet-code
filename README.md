@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**217** problems solved.
+**218** problems solved.
 
-## Easy (78 solved)
+## Easy (79 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [14. Longest Common Prefix](https://github.com/orgball2608/leet-code/blob/main/easy/14.%20Longest%20Common%20Prefix.go) - [LeetCode Problem](https://leetcode.com/problems/longest-common-prefix/)
@@ -62,6 +62,7 @@ Practice and improve your LeetCode skills every day.
 - [530. Minimum Absolute Difference in BST](https://github.com/orgball2608/leet-code/blob/main/easy/530.%20Minimum%20Absolute%20Difference%20in%20BST.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 - [543. Diameter of Binary Tree](https://github.com/orgball2608/leet-code/blob/main/easy/543.%20Diameter%20of%20Binary%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [572. Subtree of Another Tree](https://github.com/orgball2608/leet-code/blob/main/easy/572.%20Subtree%20of%20Another%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/subtree-of-another-tree/)
+- [637. Average of Levels in Binary Tree](https://github.com/orgball2608/leet-code/blob/main/easy/637.%20Average%20of%20Levels%20in%20Binary%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 - [643. Maximum Average Subarray I](https://github.com/orgball2608/leet-code/blob/main/easy/643.%20Maximum%20Average%20Subarray%20I.go) - [LeetCode Problem](https://leetcode.com/problems/maximum-average-subarray-i/)
 - [700. Search in a Binary Search Tree](https://github.com/orgball2608/leet-code/blob/main/easy/700.%20Search%20in%20a%20Binary%20Search%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 - [703. Kth Largest Element in a Stream](https://github.com/orgball2608/leet-code/blob/main/easy/703.%20Kth%20Largest%20Element%20in%20a%20Stream.go) - [LeetCode Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream/)

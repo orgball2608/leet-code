@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**219** problems solved.
+**220** problems solved.
 
-## Easy (79 solved)
+## Easy (80 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [14. Longest Common Prefix](https://github.com/orgball2608/leet-code/blob/main/easy/14.%20Longest%20Common%20Prefix.go) - [LeetCode Problem](https://leetcode.com/problems/longest-common-prefix/)
@@ -25,6 +25,7 @@ Practice and improve your LeetCode skills every day.
 - [101. Symmetric Tree](https://github.com/orgball2608/leet-code/blob/main/easy/101.%20Symmetric%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/symmetric-tree/)
 - [104. Maximum Depth of Binary Tree](https://github.com/orgball2608/leet-code/blob/main/easy/104.%20Maximum%20Depth%20of%20Binary%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [110. Balanced Binary Tree](https://github.com/orgball2608/leet-code/blob/main/easy/110.%20Balanced%20Binary%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/balanced-binary-tree/)
+- [112. Path Sum](https://github.com/orgball2608/leet-code/blob/main/easy/112.%20Path%20Sum.go) - [LeetCode Problem](https://leetcode.com/problems/path-sum/)
 - [118. Pascal's Triangle](https://github.com/orgball2608/leet-code/blob/main/easy/118.%20Pascal's%20Triangle.go) - [LeetCode Problem](https://leetcode.com/problems/pascal's-triangle/)
 - [121. Best Time to Buy and Sell Stock](https://github.com/orgball2608/leet-code/blob/main/easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.go) - [LeetCode Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [125. Valid Palindrome](https://github.com/orgball2608/leet-code/blob/main/easy/125.%20Valid%20Palindrome.go) - [LeetCode Problem](https://leetcode.com/problems/valid-palindrome/)

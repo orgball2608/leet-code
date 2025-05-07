@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**213** problems solved.
+**217** problems solved.
 
-## Easy (76 solved)
+## Easy (78 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [14. Longest Common Prefix](https://github.com/orgball2608/leet-code/blob/main/easy/14.%20Longest%20Common%20Prefix.go) - [LeetCode Problem](https://leetcode.com/problems/longest-common-prefix/)
@@ -45,6 +45,7 @@ Practice and improve your LeetCode skills every day.
 - [268. Missing Number](https://github.com/orgball2608/leet-code/blob/main/easy/268.%20Missing%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/missing-number/)
 - [278. First Bad Version](https://github.com/orgball2608/leet-code/blob/main/easy/278.%20First%20Bad%20Version.go) - [LeetCode Problem](https://leetcode.com/problems/first-bad-version/)
 - [283. Move Zeroes](https://github.com/orgball2608/leet-code/blob/main/easy/283.%20Move%20Zeroes.go) - [LeetCode Problem](https://leetcode.com/problems/move-zeroes/)
+- [290. Word Pattern](https://github.com/orgball2608/leet-code/blob/main/easy/290.%20Word%20Pattern.go) - [LeetCode Problem](https://leetcode.com/problems/word-pattern/)
 - [303. Range Sum Query - Immutable](https://github.com/orgball2608/leet-code/blob/main/easy/303.%20Range%20Sum%20Query%20-%20Immutable.go) - [LeetCode Problem](https://leetcode.com/problems/range-sum-query---immutable/)
 - [344. Reverse String](https://github.com/orgball2608/leet-code/blob/main/easy/344.%20Reverse%20String.go) - [LeetCode Problem](https://leetcode.com/problems/reverse-string/)
 - [349. Intersection of Two Arrays](https://github.com/orgball2608/leet-code/blob/main/easy/349.%20Intersection%20of%20Two%20Arrays.go) - [LeetCode Problem](https://leetcode.com/problems/intersection-of-two-arrays/)
@@ -58,6 +59,7 @@ Practice and improve your LeetCode skills every day.
 - [496. Next Greater Element I](https://github.com/orgball2608/leet-code/blob/main/easy/496.%20Next%20Greater%20Element%20I.go) - [LeetCode Problem](https://leetcode.com/problems/next-greater-element-i/)
 - [500. Keyboard Row](https://github.com/orgball2608/leet-code/blob/main/easy/500.%20Keyboard%20Row.go) - [LeetCode Problem](https://leetcode.com/problems/keyboard-row/)
 - [506. Relative Ranks](https://github.com/orgball2608/leet-code/blob/main/easy/506.%20Relative%20Ranks.go) - [LeetCode Problem](https://leetcode.com/problems/relative-ranks/)
+- [530. Minimum Absolute Difference in BST](https://github.com/orgball2608/leet-code/blob/main/easy/530.%20Minimum%20Absolute%20Difference%20in%20BST.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 - [543. Diameter of Binary Tree](https://github.com/orgball2608/leet-code/blob/main/easy/543.%20Diameter%20of%20Binary%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [572. Subtree of Another Tree](https://github.com/orgball2608/leet-code/blob/main/easy/572.%20Subtree%20of%20Another%20Tree.go) - [LeetCode Problem](https://leetcode.com/problems/subtree-of-another-tree/)
 - [643. Maximum Average Subarray I](https://github.com/orgball2608/leet-code/blob/main/easy/643.%20Maximum%20Average%20Subarray%20I.go) - [LeetCode Problem](https://leetcode.com/problems/maximum-average-subarray-i/)

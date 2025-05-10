@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**220** problems solved.
+**221** problems solved.
 
 ## Easy (80 solved)
 
@@ -91,7 +91,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (125 solved)
+## Medium (126 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -212,6 +212,7 @@ Practice and improve your LeetCode skills every day.
 - [2095. Delete the Middle Node of a Linked List](https://github.com/orgball2608/leet-code/blob/main/medium/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.go) - [LeetCode Problem](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 - [2300. Successful Pairs of Spells and Potions](https://github.com/orgball2608/leet-code/blob/main/medium/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.go) - [LeetCode Problem](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
 - [2336. Smallest Number in Infinite Set](https://github.com/orgball2608/leet-code/blob/main/medium/2336.%20Smallest%20Number%20in%20Infinite%20Set.go) - [LeetCode Problem](https://leetcode.com/problems/smallest-number-in-infinite-set/)
+- [2405. Optimal Partition of String](https://github.com/orgball2608/leet-code/blob/main/medium/2405.%20Optimal%20Partition%20of%20String.go) - [LeetCode Problem](https://leetcode.com/problems/optimal-partition-of-string/)
 - [2410. Maximum Matching of Players With Trainers](https://github.com/orgball2608/leet-code/blob/main/medium/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.go) - [LeetCode Problem](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/)
 - [2424. Longest Uploaded Prefix](https://github.com/orgball2608/leet-code/blob/main/medium/2424.%20Longest%20Uploaded%20Prefix.go) - [LeetCode Problem](https://leetcode.com/problems/longest-uploaded-prefix/)
 - [2461. Maximum Sum of Distinct Subarrays With Length K](https://github.com/orgball2608/leet-code/blob/main/medium/2461.%20Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K.go) - [LeetCode Problem](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)

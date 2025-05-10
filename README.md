@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**222** problems solved.
+**223** problems solved.
 
 ## Easy (80 solved)
 
@@ -91,7 +91,7 @@ Practice and improve your LeetCode skills every day.
 - [2974. Minimum Number Game](https://github.com/orgball2608/leet-code/blob/main/easy/2974.%20Minimum%20Number%20Game.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-number-game/)
 - [3264. Final Array State After K Multiplication Operations I](https://github.com/orgball2608/leet-code/blob/main/easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.go) - [LeetCode Problem](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)
 
-## Medium (126 solved)
+## Medium (127 solved)
 
 - [2. Add Two Numbers](https://github.com/orgball2608/leet-code/blob/main/medium/2.%20Add%20Two%20Numbers.go) - [LeetCode Problem](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/orgball2608/leet-code/blob/main/medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters.go) - [LeetCode Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -186,6 +186,7 @@ Practice and improve your LeetCode skills every day.
 - [713. Subarray Product Less Than K](https://github.com/orgball2608/leet-code/blob/main/medium/713.%20Subarray%20Product%20Less%20Than%20K.go) - [LeetCode Problem](https://leetcode.com/problems/subarray-product-less-than-k/)
 - [739. Daily Temperatures](https://github.com/orgball2608/leet-code/blob/main/medium/739.%20Daily%20Temperatures.go) - [LeetCode Problem](https://leetcode.com/problems/daily-temperatures/)
 - [791. Custom Sort String](https://github.com/orgball2608/leet-code/blob/main/medium/791.%20Custom%20Sort%20String.go) - [LeetCode Problem](https://leetcode.com/problems/custom-sort-string/)
+- [853. Car Fleet](https://github.com/orgball2608/leet-code/blob/main/medium/853.%20Car%20Fleet.go) - [LeetCode Problem](https://leetcode.com/problems/car-fleet/)
 - [875. Koko Eating Bananas](https://github.com/orgball2608/leet-code/blob/main/medium/875.%20Koko%20Eating%20Bananas.go) - [LeetCode Problem](https://leetcode.com/problems/koko-eating-bananas/)
 - [876. Middle of the Linked List](https://github.com/orgball2608/leet-code/blob/main/medium/876.%20Middle%20of%20the%20Linked%20List.go) - [LeetCode Problem](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [901. Online Stock Span](https://github.com/orgball2608/leet-code/blob/main/medium/901.%20Online%20Stock%20Span.go) - [LeetCode Problem](https://leetcode.com/problems/online-stock-span/)

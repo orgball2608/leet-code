@@ -6,9 +6,9 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**224** problems solved.
+**225** problems solved.
 
-## Easy (80 solved)
+## Easy (81 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [14. Longest Common Prefix](https://github.com/orgball2608/leet-code/blob/main/easy/14.%20Longest%20Common%20Prefix.go) - [LeetCode Problem](https://leetcode.com/problems/longest-common-prefix/)
@@ -77,6 +77,7 @@ Practice and improve your LeetCode skills every day.
 - [933. Number of Recent Calls](https://github.com/orgball2608/leet-code/blob/main/easy/933.%20Number%20of%20Recent%20Calls.go) - [LeetCode Problem](https://leetcode.com/problems/number-of-recent-calls/)
 - [977. Squares of a Sorted Array](https://github.com/orgball2608/leet-code/blob/main/easy/977.%20Squares%20of%20a%20Sorted%20Array.go) - [LeetCode Problem](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [1046. Last Stone Weight](https://github.com/orgball2608/leet-code/blob/main/easy/1046.%20Last%20Stone%20Weight.go) - [LeetCode Problem](https://leetcode.com/problems/last-stone-weight/)
+- [1047. Remove All Adjacent Duplicates In String](https://github.com/orgball2608/leet-code/blob/main/easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.go) - [LeetCode Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 - [1071. Greatest Common Divisor of Strings](https://github.com/orgball2608/leet-code/blob/main/easy/1071.%20Greatest%20Common%20Divisor%20of%20Strings.go) - [LeetCode Problem](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 - [1207. Unique Number of Occurrences](https://github.com/orgball2608/leet-code/blob/main/easy/1207.%20Unique%20Number%20of%20Occurrences.go) - [LeetCode Problem](https://leetcode.com/problems/unique-number-of-occurrences/)
 - [1237. Find Positive Integer Solution for a Given Equation](https://github.com/orgball2608/leet-code/blob/main/easy/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.go) - [LeetCode Problem](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)

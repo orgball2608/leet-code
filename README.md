@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**223** problems solved.
+**224** problems solved.
 
 ## Easy (80 solved)
 
@@ -221,9 +221,10 @@ Practice and improve your LeetCode skills every day.
 - [2542. Maximum Subsequence Score](https://github.com/orgball2608/leet-code/blob/main/medium/2542.%20Maximum%20Subsequence%20Score.go) - [LeetCode Problem](https://leetcode.com/problems/maximum-subsequence-score/)
 - [3092. Most Frequent IDs](https://github.com/orgball2608/leet-code/blob/main/medium/3092.%20Most%20Frequent%20IDs.go) - [LeetCode Problem](https://leetcode.com/problems/most-frequent-ids/)
 
-## Hard (8 solved)
+## Hard (9 solved)
 
 - [23. Merge k Sorted Lists](https://github.com/orgball2608/leet-code/blob/main/hard/23.%20Merge%20k%20Sorted%20Lists.go) - [LeetCode Problem](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [42. Trapping Rain Water](https://github.com/orgball2608/leet-code/blob/main/hard/42.%20Trapping%20Rain%20Water.go) - [LeetCode Problem](https://leetcode.com/problems/trapping-rain-water/)
 - [76. Minimum Window Substring](https://github.com/orgball2608/leet-code/blob/main/hard/76.%20Minimum%20Window%20Substring.go) - [LeetCode Problem](https://leetcode.com/problems/minimum-window-substring/)
 - [84. Largest Rectangle in Histogram](https://github.com/orgball2608/leet-code/blob/main/hard/84.%20Largest%20Rectangle%20in%20Histogram.go) - [LeetCode Problem](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 - [239. Sliding Window Maximum](https://github.com/orgball2608/leet-code/blob/main/hard/239.%20Sliding%20Window%20Maximum.go) - [LeetCode Problem](https://leetcode.com/problems/sliding-window-maximum/)

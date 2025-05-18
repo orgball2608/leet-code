@@ -6,7 +6,7 @@ Practice and improve your LeetCode skills every day.
 
 ## Total Problems Solved
 
-**225** problems solved.
+**226** problems solved.
 
 ## Easy (81 solved)
 

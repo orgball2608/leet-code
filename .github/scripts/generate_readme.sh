@@ -18,7 +18,7 @@ sed -i "s|{{GITHUB_REPOSITORY}}|$GITHUB_REPOSITORY|g" "$README_FILE"
 # Function to generate the problem list for a given difficulty
 generate_problem_list() {
     local difficulty=$1
-    find "$REPO_ROOT/$difficulty" -type f -name "*.go" | sort -n -t. -k1 | while IFS= read -r file; do
+    find "$REPO_ROOT/$difficulty" -type f -name "*.go" | sort -V | while IFS= read -r file; do
         local problem_title
         problem_title=$(basename "$file" .go)
         

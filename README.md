@@ -8,7 +8,7 @@ Practice and improve your LeetCode skills every day.
 
 **228** problems solved.
 
-## Easy (81 solved)
+## Easy (82 solved)
 
 - [9. Palindrome Number](https://github.com/orgball2608/leet-code/blob/main/easy/9.%20Palindrome%20Number.go) - [LeetCode Problem](https://leetcode.com/problems/palindrome-number/)
 - [14. Longest Common Prefix](https://github.com/orgball2608/leet-code/blob/main/easy/14.%20Longest%20Common%20Prefix.go) - [LeetCode Problem](https://leetcode.com/problems/longest-common-prefix/)
@@ -55,6 +55,7 @@ Practice and improve your LeetCode skills every day.
 - [387. First Unique Character in a String](https://github.com/orgball2608/leet-code/blob/main/easy/387.%20First%20Unique%20Character%20in%20a%20String.go) - [LeetCode Problem](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [389. Find the Difference](https://github.com/orgball2608/leet-code/blob/main/easy/389.%20Find%20the%20Difference.go) - [LeetCode Problem](https://leetcode.com/problems/find-the-difference/)
 - [392. Is Subsequence](https://github.com/orgball2608/leet-code/blob/main/easy/392.%20Is%20Subsequence.go) - [LeetCode Problem](https://leetcode.com/problems/is-subsequence/)
+- [409. Longest Palindrome](https://github.com/orgball2608/leet-code/blob/main/easy/409.%20Longest%20Palindrome.go) - [LeetCode Problem](https://leetcode.com/problems/longest-palindrome/)
 - [441. Arranging Coins](https://github.com/orgball2608/leet-code/blob/main/easy/441.%20Arranging%20Coins.go) - [LeetCode Problem](https://leetcode.com/problems/arranging-coins/)
 - [476. Number Complement](https://github.com/orgball2608/leet-code/blob/main/easy/476.%20Number%20Complement.go) - [LeetCode Problem](https://leetcode.com/problems/number-complement/)
 - [496. Next Greater Element I](https://github.com/orgball2608/leet-code/blob/main/easy/496.%20Next%20Greater%20Element%20I.go) - [LeetCode Problem](https://leetcode.com/problems/next-greater-element-i/)

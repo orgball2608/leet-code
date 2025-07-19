@@ -22,6 +22,8 @@ jobs:
         run: chmod +x .github/scripts/*.sh  # Cấp quyền chạy script
 
       - name: Get solved count from LeetCode API
+        env:
+          LEETCODE_USERNAME: ${{ secrets.LEETCODE_USERNAME }}
         run: .github/scripts/get_solved_count.sh
 
       - name: Generate README

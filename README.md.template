@@ -1,0 +1,39 @@
+# LeetCode Solutions in Go
+
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![Actions Status](https://github.com/{{GITHUB_REPOSITORY}}/actions/workflows/count.yml/badge.svg)](https://github.com/{{GITHUB_REPOSITORY}}/actions/workflows/count.yml)
+
+This repository contains my personal solutions for LeetCode problems, implemented in Go. Visit my [LeetCode Profile](https://leetcode.com/orgball2608/).
+
+---
+
+## 📊 LeetCode Stats
+
+| Category | Solved |
+| :--- | :---: |
+| Easy | {{EASY_SOLVED}} |
+| Medium | {{MEDIUM_SOLVED}} |
+| Hard | {{HARD_SOLVED}} |
+| **Total** | **{{ALL_SOLVED}}** |
+
+---
+
+## Solutions
+
+### Easy
+
+| Problem | LeetCode | Solution |
+| :--- | :---: | :---: |
+{{EASY_LIST}}
+
+### Medium
+
+| Problem | LeetCode | Solution |
+| :--- | :---: | :---: |
+{{MEDIUM_LIST}}
+
+### Hard
+
+| Problem | LeetCode | Solution |
+| :--- | :---: | :---: |
+{{HARD_LIST}}

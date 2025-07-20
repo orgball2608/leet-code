@@ -12,9 +12,9 @@ This repository contains my personal solutions for LeetCode problems, implemente
 | Category | Solved |
 | :--- | :---: |
 | Easy | 82 |
-| Medium | 128 |
+| Medium | 129 |
 | Hard | 9 |
-| **Total** | **219** |
+| **Total** | **220** |
 
 ---
 
@@ -133,6 +133,7 @@ This repository contains my personal solutions for LeetCode problems, implemente
 | 50. Pow(x, n) | [Problem](https://leetcode.com/problems/pow(x,-n)/) | [Solution](https://github.com/orgball2608/leet-code/blob/main/medium%2F50.%20Pow%28x%2C%20n%29.go) |
 | 56. Merge Intervals | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](https://github.com/orgball2608/leet-code/blob/main/medium%2F56.%20Merge%20Intervals.go) |
 | 57. Insert Interval | [Problem](https://leetcode.com/problems/insert-interval/) | [Solution](https://github.com/orgball2608/leet-code/blob/main/medium%2F57.%20Insert%20Interval.go) |
+| 62. Unique Paths | [Problem](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/orgball2608/leet-code/blob/main/medium%2F62.%20Unique%20Paths.go) |
 | 74. Search a 2D Matrix | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](https://github.com/orgball2608/leet-code/blob/main/medium%2F74.%20Search%20a%202D%20Matrix.go) |
 | 75. Sort Colors | [Problem](https://leetcode.com/problems/sort-colors/) | [Solution](https://github.com/orgball2608/leet-code/blob/main/medium%2F75.%20Sort%20Colors.go) |
 | 77. Combinations | [Problem](https://leetcode.com/problems/combinations/) | [Solution](https://github.com/orgball2608/leet-code/blob/main/medium%2F77.%20Combinations.go) |
